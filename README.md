@@ -1,2 +1,2 @@
 # dio-challenge-github-repository
-Projeto sobre Git/GitHub
+Project about Git/GitHub
